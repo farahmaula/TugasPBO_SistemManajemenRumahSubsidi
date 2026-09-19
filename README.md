@@ -36,3 +36,9 @@ Ada menu utama yang nantinya akan menghubungkan dengan menu class lainnya pada g
 <img width="940" height="457" alt="image" src="https://github.com/user-attachments/assets/c1d27834-6b73-4082-926e-78477f4611ad" />
 
 <img width="788" height="920" alt="image" src="https://github.com/user-attachments/assets/35e00c78-66f2-47b9-a3cb-2608a05ec4c3" />
+<img width="1070" height="491" alt="image" src="https://github.com/user-attachments/assets/b74af82d-77da-4dcb-9441-7d2e237afa39" />
+<img width="597" height="514" alt="image" src="https://github.com/user-attachments/assets/411b6019-8b3e-4b30-9013-4df46d00714f" />
+
+  # Menu Pembeli
+<img width="925" height="617" alt="image" src="https://github.com/user-attachments/assets/4eacc268-1d0d-4e77-a744-fe248dee7e7d" />
+
