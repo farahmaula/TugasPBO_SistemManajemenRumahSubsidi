@@ -28,3 +28,11 @@ Setelah itu dilanjutkan dengan menggunakan getter dan setter yang digunakan untu
 
 Pada class rumah subsidi atribut id rumah ditambah variabel final sehingga sistem mengerti bahwa sifat atribut tersebut adalah wajib. Perintah bisa dilihat pada gambar dibawah ini.
 <img width="675" height="141" alt="image" src="https://github.com/user-attachments/assets/afd5bf13-a028-499d-b2f9-476a4236d56c" />
+
+# Output Sistem
+Ada menu utama yang nantinya akan menghubungkan dengan menu class lainnya pada gabar dibawah ini adalah hasil outputnya.
+<img width="762" height="229" alt="image" src="https://github.com/user-attachments/assets/e037d7af-960f-4e4d-bd39-2de87d635fff" />
+  # Menu Rumah Subsidi
+<img width="940" height="457" alt="image" src="https://github.com/user-attachments/assets/c1d27834-6b73-4082-926e-78477f4611ad" />
+
+<img width="788" height="920" alt="image" src="https://github.com/user-attachments/assets/35e00c78-66f2-47b9-a3cb-2608a05ec4c3" />
