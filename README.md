@@ -25,3 +25,6 @@ Perintah “public RumahTersedia(String idRumah, String unit, String tipeRumah, 
 <img width="850" height="753" alt="image" src="https://github.com/user-attachments/assets/f8d90ccc-a1d7-4946-88aa-77773e47edd3" />
 
 Setelah itu dilanjutkan dengan menggunakan getter dan setter yang digunakan untuk membaca atau mengubah nilai atribut yang disembunyikan atau private, serta dengan maenambahkan method untuk menjalankan atribut didalamnya.
+
+Pada class rumah subsidi atribut id rumah ditambah variabel final sehingga sistem mengerti bahwa sifat atribut tersebut adalah wajib. Perintah bisa dilihat pada gambar dibawah ini.
+<img width="675" height="141" alt="image" src="https://github.com/user-attachments/assets/afd5bf13-a028-499d-b2f9-476a4236d56c" />
