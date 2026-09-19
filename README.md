@@ -15,3 +15,13 @@ Pada sistem ini rumah subsidi menjadi class utama atau disebut _superclass_ yang
 Gambar dibawah ini adalah kode yang digunakan dalam inharitance.
 
 <img width="940" height="156" alt="image" src="https://github.com/user-attachments/assets/6495d085-1e00-44f4-8215-537522ce7a91" />
+Perintah “public class RumahTersedia extends RumahSubsidi { “ artinya Rumahtersedia adalah subclass dari rumah subsidi. perintah "exstand" memberitahu bahwa rumah tersedia telah mewarisi sifat atau atribut dari class rumahsubsidi. 
+
+“private String lokasi;
+ private int jumlahRumah;” ini adalah atribut tambahan yang lebih spesifik dimana digunakan untuk membedakan superclass dan subclass.
+
+Perintah “public RumahTersedia(String idRumah, String unit, String tipeRumah, double harga, String lokasi, int jumlahRumah) {“ ini berisi atribut dari rumahsubsidi dan atribut tambahan rumahtersedia, sedangkan perintah “super(idRumah, unit, tipeRumah, harga);” untuk memanggil constructor dari superclass RumahSubsidi dan menandakan atribut dari superclass. Dengan demikian, atribut dasar rumah tetap dikelola oleh superclass, sedangkan RumahTersedia mengelola atribut tambahannya sendiri.
+
+<img width="850" height="753" alt="image" src="https://github.com/user-attachments/assets/f8d90ccc-a1d7-4946-88aa-77773e47edd3" />
+
+Setelah itu dilanjutkan dengan menggunakan getter dan setter yang digunakan untuk membaca atau mengubah nilai atribut yang disembunyikan atau private, serta dengan maenambahkan method untuk menjalankan atribut didalamnya.
