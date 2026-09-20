@@ -40,6 +40,8 @@ Ada menu utama yang nantinya akan menghubungkan dengan menu class lainnya pada g
 <img width="788" height="920" alt="image" src="https://github.com/user-attachments/assets/35e00c78-66f2-47b9-a3cb-2608a05ec4c3" />
 <img width="1070" height="491" alt="image" src="https://github.com/user-attachments/assets/b74af82d-77da-4dcb-9441-7d2e237afa39" />
 <img width="597" height="514" alt="image" src="https://github.com/user-attachments/assets/411b6019-8b3e-4b30-9013-4df46d00714f" />
+<img width="932" height="656" alt="image" src="https://github.com/user-attachments/assets/964d0c05-5d33-4514-ac85-181dcce7ca73" />
+
 
   # Menu Pembeli
 <img width="925" height="617" alt="image" src="https://github.com/user-attachments/assets/4eacc268-1d0d-4e77-a744-fe248dee7e7d" />
@@ -47,6 +49,9 @@ Ada menu utama yang nantinya akan menghubungkan dengan menu class lainnya pada g
 <img width="767" height="681" alt="image" src="https://github.com/user-attachments/assets/5b59b91b-0b88-483b-8872-0f5111247461" />
 <img width="926" height="445" alt="image" src="https://github.com/user-attachments/assets/90cb901a-f7e2-4dec-a15c-11302693e754" />
 <img width="945" height="715" alt="image" src="https://github.com/user-attachments/assets/4114bdcc-74c1-42a5-934d-6a96fc3cf5c4" />
+<img width="940" height="616" alt="image" src="https://github.com/user-attachments/assets/ddb40f25-1bff-4583-a139-76a9b8c01a45" />
+<img width="821" height="386" alt="image" src="https://github.com/user-attachments/assets/3a6bebcc-980d-4633-b6ef-0e5e3c9f106f" />
+
 
   # Menu Pengajuan
 <img width="940" height="570" alt="image" src="https://github.com/user-attachments/assets/416c3afa-8e88-427d-8a3d-eda2c522fee7" />
