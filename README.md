@@ -73,3 +73,5 @@ Dibawah ini adalah output dari dua jenis pembayaran yang berbeda.
 
 Jika memiliki menu kembali maka akan kembali ke menu utama dari manajemen rumah subsidi.
 
+<img width="940" height="354" alt="image" src="https://github.com/user-attachments/assets/c4d0f0d4-32bb-4a95-b2f9-35cad261b32b" />
+Dengan memilih menu keluar maka sistem telah selesai dijalankan.
