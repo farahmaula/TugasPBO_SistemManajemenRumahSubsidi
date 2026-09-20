@@ -2,7 +2,7 @@ Nama  : Farah Hikmatul Maula
 
 NIM   : 2509116099
 
-# Penjelasan Sistem Manajemen Runmah Subsidi
+# Penjelasan Sistem Manajemen Rumah Subsidi
 
 Sistem manajemen rumah suubsidi dibuat untuk administrasi dalam mengelola pendataan rumah subsidi, data pembeli, pengajuan rumah subsidi sampai dengan proses pembayaran. Sistem ini ditujukan untuk bagian administrasi atau admin.
 
