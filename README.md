@@ -51,14 +51,18 @@ Ada menu utama yang nantinya akan menghubungkan dengan menu class lainnya pada g
 
 <img width="940" height="404" alt="image" src="https://github.com/user-attachments/assets/778da1a8-9819-4ade-95ca-0a93a00c5e91" />
 Pada gambar diatas bisa dilihat bahwa setelah gaji Nisa dubah dari 3.000.000 menjadi 1.500.000 pengajuan tidak bisa dibuat karena tidak memenuhi pernyaratan yaitu memiliki gaji minimal 2.000.000. 
+
 <img width="871" height="285" alt="image" src="https://github.com/user-attachments/assets/b88ef51b-fb1a-4b95-a06e-411aba931650" />
 <img width="940" height="585" alt="image" src="https://github.com/user-attachments/assets/f4827891-850e-4a9a-942d-fc0772acd95c" />
 Sebelum melakukan pengajuan saya mengubah kembali gaji yang dimiliki pembeli selanjutnya bisa melakukan pengajuan pebelian seperti pada gambar diatas.
+
 <img width="940" height="665" alt="image" src="https://github.com/user-attachments/assets/528e2ac1-3283-46b4-bd44-8c95d4af0fa7" />
+
 Dibawah ini adalah output dari dua jenis pembayaran yang berbeda.
 <img width="940" height="674" alt="image" src="https://github.com/user-attachments/assets/b1f07ff7-9c71-425d-a130-ed25e218bc4b" />
 <img width="940" height="674" alt="image" src="https://github.com/user-attachments/assets/9a12ec36-29f0-43cc-9bf9-0cc5d5c47256" />
 
 <img width="656" height="388" alt="image" src="https://github.com/user-attachments/assets/5e6b9ac5-417d-4380-a255-1fec8205e9ef" />
+
 Jika memiliki menu kembali maka akan kembali ke menu utama dari manajemen rumah subsidi.
 
